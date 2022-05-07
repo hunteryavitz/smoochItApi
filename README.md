@@ -1,2 +1,2 @@
-# smoochit
-android app that shares images with friends' and family's digital picture frames
+# smoochIt API
+api for smoochIt app that receives images and forwards to digital picture frames
